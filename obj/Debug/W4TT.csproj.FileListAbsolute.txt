@@ -1,0 +1,6 @@
+C:\Users\b.lopez\Documents\PRODWARE GENERAL\W4TT\W4TT\obj\Debug\W4TT.csproj.AssemblyReference.cache
+C:\Users\b.lopez\Documents\PRODWARE GENERAL\W4TT\W4TT\obj\Debug\W4TT.csproj.CoreCompileInputs.cache
+C:\Users\b.lopez\Documents\PRODWARE GENERAL\W4TT\W4TT\bin\Debug\W4TT.pdb
+C:\Users\b.lopez\Documents\PRODWARE GENERAL\W4TT\W4TT\obj\Debug\W4TT.pdb
+C:\Users\b.lopez\Documents\PRODWARE GENERAL\W4TT\W4TT\bin\Debug\W4TT.exe
+C:\Users\b.lopez\Documents\PRODWARE GENERAL\W4TT\W4TT\obj\Debug\W4TT.exe
