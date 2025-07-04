@@ -4,7 +4,10 @@ W4TT es un espacio de empoderamiento donde las mujeres en tecnología se prepara
 
 Pulsa en la imagen para ir a la charla 
 
-Debugging al Miedo. 
+<h3 align="center">🎥 Debugging al Miedo – Charla en W4TT</h3>
 
-
-[![Debugging al Miedo](https://www.women4tt.com/wp-content/uploads/2025/03/NewLogoW4TT-1.png)](https://www.youtube.com/watch?v=qSN7PKrAw_4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qSN7PKrAw_4">
+    <img src="https://img.youtube.com/vi/qSN7PKrAw_4/hqdefault.jpg" alt="Debugging al Miedo">
+  </a>
+</p>
